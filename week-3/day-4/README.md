@@ -14,14 +14,14 @@
 - if, else if, else statements
 
 ## Where you do your work:
-https://github.com/Vets-In-Tech/week3HWJune2021
+[TO BE ADDED]
 
 ### Weekend Assignment Due Monday, Aug 9th, 12 pm PT
 - [Video of Final Output](https://drive.google.com/file/d/1MprsKsvwg6moGq72mV2AwmsKMzcf4OBK/view?usp=sharing)
 
 You are going to do all of your work at this repo:
-**[Scaffolded - Homework 3 Assignment](https://github.com/Vets-In-Tech/week3HWJuly2021-scaffolded)** <br>
-**[Homework 3 Assignment](https://github.com/Vets-In-Tech/week3HWJuly2021)** <br>
+**[Scaffolded - Homework 3 Assignment - TO BE ADDED]()** <br>
+**[Homework 3 Assignment - TO BE ADDED]()** <br>
 
 BARE MINIMUM REQUIREMENTS 
 - Functional memory game, with timer, working reset button, and modal to let the user know how they did

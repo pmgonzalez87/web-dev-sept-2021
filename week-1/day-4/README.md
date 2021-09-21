@@ -82,7 +82,7 @@ Having Trouble?
 
 You are going to do all of your work at this repo:
 
-**[Homework 1 Assignment](https://github.com/Vets-In-Tech/week1HWJuly2021)** <br>
+**[Homework 1 Assignment - TO BE ADDED]()** <br>
 
 
 Take a look at the brochure image file in the assignment folder!
@@ -100,12 +100,6 @@ We are looking the use of :
 Bonus: Create a page link that takes the user to a music player!
 
 To receive credit for this assignment, please submit a pull request **NO LATER THAN MONDAY 12:00 PM PST**
-
-Roomname: Summer2021VETSINTECH
-https://b.socrative.com/login/student/?feature=embed
-
-
-
 
 #### Reference
 - [Overflow](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content)

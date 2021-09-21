@@ -15,7 +15,7 @@ EOD Sprint Retrospective
 - JS Carousel
 
 ## Where you do your work:
-https://github.com/Vets-In-Tech/week2HWJune2021
+[TO BE ADDED]
 
 ### Weekend Assignment Due Monday, Aug 2nd, 12 pm PT
 - [Video of Final Output](https://drive.google.com/file/d/1DfypL_T4TYertUuHvVarTpYtVvqJF9Ed/view?usp=sharing)

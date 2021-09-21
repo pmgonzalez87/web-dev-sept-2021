@@ -50,11 +50,6 @@ If you can answer the questions or do these tasks below (and please don't just s
 - Create a form using a table  
 - Build Table with music player embedded
 
-
-### Exit Ticket
- - **[Socrative Quiz](https://b.socrative.com/login/student/?feature=embed)** 
-
-
 ### Resources
 **[Quality Video Downloads](https://www.pexels.com/search/videos/nature/)** <br>
 **[Audio Tag Documentation](https://www.w3schools.com/tags/tag_audio.asp)** <br>
