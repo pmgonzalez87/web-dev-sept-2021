@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Starts in the top left corner</h1>
+    <div>Normal</div>
+    <div class="example1">Translated</div>
+    <div>Normal</div>
+    <!-- <h1>Starts in the top left corner + plus the h1 margin + the body margin</h1> -->
+
+<style>
+    /* Teacher note: refer back to previous cohort for notes
+    selector {
+        property: value
+    } 
+    */
+    /* body {
+        margin: 0;
+    }
+
+    h1 {
+        margin: 0px;
+        border: 1px solid;
+    } */
+
+    div {
+        width: 100px;
+        height: 100px;
+        background-color: green;
+    }
+
+    .example1 {
+        transform: perspective(500px) translate3d(50px, 10px, 3px);
+        background-color: pink;
+    }
+</style>
+</body>
+</html>

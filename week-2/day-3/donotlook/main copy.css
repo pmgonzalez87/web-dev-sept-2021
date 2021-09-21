@@ -1,0 +1,28 @@
+#window {
+ width: 390px;   
+ height: 390px;
+ border: 1px solid;
+ overflow: hidden;
+}
+
+#imageSlider {
+    display: flex;
+    transform: translateX(000px);
+    animation: move 20s infinite;
+}
+
+  
+  @keyframes move {
+    0% { transition: ease-in; transform: translateX(-100%); }
+    10% { transition: ease-in; transform: translateX(-200%); }
+    20% { transition: ease-in; transform: translateX(-300%); }
+    30% { transition: ease-in; transform: translateX(-400%); }
+    40% { transition: ease-in; transform: translateX(-500%); }
+    50% { transition: ease-in; transform: translateX(-600%); }
+    60% { transition: ease-in; transform: translateX(-500%); }
+    70% { transition: ease-in; transform: translateX(-400%); }
+    80% { transition: ease-in; transform: translateX(-300%); }
+    90% { transition: ease-in; transform: translateX(-200%); }
+    100% { transition: ease-in; transform: translateX(-100%); }
+  }
+  
